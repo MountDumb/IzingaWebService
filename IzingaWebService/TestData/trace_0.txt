@@ -1,0 +1,677 @@
+[2017-10-04 09:50:29] INFO Startup Startup.cpp(line 188):  11.300.05.01.142
+[2017-10-04 09:50:29] CRIT CDetectDevice::DetectDevThreadProc DetectDevice.cpp(line 332):  Enter DetectDevThreadProc thread!
+[2017-10-04 09:50:29] INFO CSerialDeviceOperate OpenCommPort SerialDeviceOperate.cpp(line 693):  Open COM12 succeed.
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 17):  Enter ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 22):  Leave ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] INFO CSerialDeviceOperate OpenCommPort SerialDeviceOperate.cpp(line 693):  Open COM11 succeed.
+[2017-10-04 09:50:29] INFO AT(THREAD) FunctionTrace.h(line 17):  Enter AT::ParseThreadProc()
+[2017-10-04 09:50:29] INFO AT(Parser to EndThread) FunctionTrace.h(line 17):  Enter AT::~Parser()
+[2017-10-04 09:50:29] INFO AT(THREAD) FunctionTrace.h(line 22):  Leave AT::ParseThreadProc()
+[2017-10-04 09:50:29] INFO AT(Parser to EndThread) FunctionTrace.h(line 22):  Leave AT::~Parser()
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 17):  Enter ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 22):  Leave ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] CRIT CDetectDevice::Release DetectDevice.cpp(line 56):  Enter CDetectDevice.Release
+[2017-10-04 09:50:29] CRIT CDetectDevice::DetectDevThreadProc DetectDevice.cpp(line 507):  Leave DetectDevThreadProc thread!
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 17):  Enter ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 22):  Leave ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] CRIT CDetectDevice::Release DetectDevice.cpp(line 66):  Leave CDetectDevice.Release
+[2017-10-04 09:50:29] INFO DialUpPlugin EasyUseTrace.h(line 48):  Enter CDialUpServiceImpl::CDialUpServiceImpl
+[2017-10-04 09:50:29] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::CDialUpServiceImpl m_enOSType == 2
+[2017-10-04 09:50:29] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::EnumConnections No Connections
+[2017-10-04 09:50:29] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(DailTest) or IntoElem() failed!
+[2017-10-04 09:50:29] INFO DialUpPlugin EasyUseTrace.h(line 60):  Leave CDialUpServiceImpl::CDialUpServiceImpl
+[2017-10-04 09:50:29] CRIT CDetectDevice::DetectDevThreadProc DetectDevice.cpp(line 332):  Enter DetectDevThreadProc thread!
+[2017-10-04 09:50:29] INFO NetInfoPlugin HeartBeat.cpp(line 94):  CHearBeat::Register(03618F38, 1000) successful
+[2017-10-04 09:50:29] INFO NetInfoPlugin HeartBeat.cpp(line 164):  CHeartBeat::Thread() started
+[2017-10-04 09:50:29] ERRO SMSUIPlugin SMSUIMainDlg.cpp(line 2547):  Self Create Error!
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 2556):  Enter CMain::OnCreate() ...
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 2642):  Alloc memory for CFrameUILogic!
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 2662):  CreateFrame(). Start create frame.
+[2017-10-04 09:50:29] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(WLanSetting) or IntoElem() failed!
+[2017-10-04 09:50:29] INFO NetInfoPlugin Statistic.cpp(line 296):  CStatistic::RegisterCallbackEvent(03792CDC) registered
+[2017-10-04 09:50:29] ERRO Container PluginContainer.cpp(line 171):  strName equal ""!
+[2017-10-04 09:50:29] INFO CSerialDeviceOperate OpenCommPort SerialDeviceOperate.cpp(line 693):  Open COM12 succeed.
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 17):  Enter ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 22):  Leave ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] INFO CSerialDeviceOperate OpenCommPort SerialDeviceOperate.cpp(line 693):  Open COM11 succeed.
+[2017-10-04 09:50:29] INFO AT(THREAD) FunctionTrace.h(line 17):  Enter AT::ParseThreadProc()
+[2017-10-04 09:50:29] INFO AT(Parser to EndThread) FunctionTrace.h(line 17):  Enter AT::~Parser()
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 2682):  Initialize UI plugin...
+[2017-10-04 09:50:29] INFO AT(THREAD) FunctionTrace.h(line 22):  Leave AT::ParseThreadProc()
+[2017-10-04 09:50:29] INFO AT(Parser to EndThread) FunctionTrace.h(line 22):  Leave AT::~Parser()
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 17):  Enter ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] INFO ~CSerialDeviceOperate FunctionTrace.h(line 22):  Leave ~CSerialDeviceOperate()
+[2017-10-04 09:50:29] ERRO Container PluginContainer.cpp(line 171):  strName equal ""!
+[2017-10-04 09:50:29] ERRO Container PluginContainer.cpp(line 171):  strName equal ""!
+[2017-10-04 09:50:29] INFO NetInfoPlugin Statistic.cpp(line 296):  CStatistic::RegisterCallbackEvent(06B80E24) registered
+[2017-10-04 09:50:29] ERRO Container PluginContainer.cpp(line 171):  strName equal ""!
+[2017-10-04 09:50:29] ERRO Container PluginContainer.cpp(line 542):  pszPluginCLSID equal ""!
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 2692):  Query devicemgrUI plugin success!
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 2714):  Register net connect instance...
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 2723):  Call CMainFrm::OnCreate() function successed.
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 2746):  Leave CMainFrm::OnCreate() ...
+[2017-10-04 09:50:29] ERRO NotifyService NotifyServiceImpl.cpp(line 191):  SendNotify: the plugin(ID:E5A58FA6-8F65-48F5-B887-C2F9CA0FE15C) doesn't exist or can't receive notify.
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 791):  Begin CMainFrm::OnInitDialog()!
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 822):  Loading callUIservice plugin!
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 826):  Loading callservice plugin!
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 830):  Loading SMSUIservice plugin!
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 834):  Loading SMSservice plugin!
+[2017-10-04 09:50:29] ERRO SMSSERVICE SMSServiceImpl.cpp(line 2077):  CheckSimAndDevice()
+[2017-10-04 09:50:29] ERRO SMSSERVICE SMSServiceImpl.cpp(line 2115):  CheckSimAndDevice() GetUniCommService fail
+[2017-10-04 09:50:29] INFO XFramePlugin MainFrm.cpp(line 862):  End CMainFrm::OnInitDialog()!
+[2017-10-04 09:50:29] INFO NetInfoUIPlugin MyStatusBar.cpp(line 1407):  Enter CMyStatusBar::OnMSAvalable()
+[2017-10-04 09:50:30] INFO CSerialDeviceOperate OpenCommPort SerialDeviceOperate.cpp(line 693):  Open COM11 succeed.
+[2017-10-04 09:50:30] INFO AT(CATCallback) FunctionTrace.h(line 17):  Enter AT::CATCallback()
+[2017-10-04 09:50:30] INFO AT(THREAD) FunctionTrace.h(line 17):  Enter AT::ParseThreadProc()
+[2017-10-04 09:50:30] CRIT AT(THREAD) FunctionTrace.h(line 17):  Enter AT::CallbackThread
+[2017-10-04 09:50:30] INFO AT(CATCallback) FunctionTrace.h(line 22):  Leave AT::CATCallback()
+[2017-10-04 09:50:31] INFO NetInfoUIPlugin MyStatusBar.cpp(line 1330):  Enter CMyStatusBar::OnMSAvalable()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1931):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_AVAILABLE
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1938):  Info: CSMSServiceImpl::OnDeviceMgrEvent()  Receiver StartThread()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 802):  Info: Enter CSMSServiceImpl::Receive()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1946):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_AVAILABLE
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1537):  Info: Enter CSMSServiceImpl::RegCallBack()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1556):  Error: CSMSServiceImpl::RegCallBack() ISMSEvent::SIM_OK
+[2017-10-04 09:50:31] INFO NDISPlugin EasyUseTrace.h(line 70):  CNDISServiceImpl::Init NDIS Device List:
+[2017-10-04 09:50:31] INFO NDISPlugin EasyUseTrace.h(line 70):  CNDISServiceImpl::Init 
+[2017-10-04 09:50:31] ERRO NDISPlugin EasyUseTrace.h(line 70):  CNDISServiceImpl::Init NdisGetDeviceName(0) == NULL, No NDIS Device!
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1576):  Error: CSMSServiceImpl::RegCallBack() ISMSEvent::CAN_SEND_SMS
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1592):  Info: Leave CSMSServiceImpl::RegCallBack()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 2003):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() EVENT_NET_SERVER_STATUS
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 2010):  Info: CSMSServiceImpl::OnDeviceMgrEvent() CAN_SEND_SMS!
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 2021):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() EVENT_NET_SERVER_STATUS
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 2003):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() EVENT_NET_SERVER_STATUS
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 2010):  Info: CSMSServiceImpl::OnDeviceMgrEvent() CAN_SEND_SMS!
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 2021):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() EVENT_NET_SERVER_STATUS
+[2017-10-04 09:50:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1913):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() WMS_EVENT_READY
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1916):  Info: CSMSServiceImpl::OnDeviceMgrEvent()  SimSMS StartThread()
+[2017-10-04 09:50:31] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 698):  Info: Enter CDeviceSMSImpl::StartThread()
+[2017-10-04 09:50:31] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 709):  Info: Enter CDeviceSMSImpl::Init()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1921):  Info: CSMSServiceImpl::OnDeviceMgrEvent()  NVSMS StartThread()
+[2017-10-04 09:50:31] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 698):  Info: Enter CDeviceSMSImpl::StartThread()
+[2017-10-04 09:50:31] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 709):  Info: Enter CDeviceSMSImpl::Init()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1925):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() WMS_EVENT_READY
+[2017-10-04 09:50:31] CRIT AT::InitDeviceSucceed AT.cpp(line 3090):  Set NV Profile false!
+[2017-10-04 09:50:31] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 100):  Info: Enter CDeviceSMSImpl::ReadRecord()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 784):  Enter ReadNewMsgLock()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 786):  m_MutexReadNewMsg Lock()
+[2017-10-04 09:50:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 433):  FindChildElem(SMSSERVICE, ReceviceMode) failed!
+[2017-10-04 09:50:31] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 737):  Info: Leave CDeviceSMSImpl::Init()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 794):  Enter ReadNewMsgUnlock()
+[2017-10-04 09:50:31] ERRO SMSSERVICE SMSServiceImpl.cpp(line 796):  m_MutexReadNewMsg Unlock()
+[2017-10-04 09:50:31] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 248):  Info: Leave CDeviceSMSImpl::ReadRecord()
+[2017-10-04 09:50:31] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 737):  Info: Leave CDeviceSMSImpl::Init()
+[2017-10-04 09:50:38] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(CURRENT_USER_PRIVATE_DIR) or IntoElem() failed!
+[2017-10-04 09:50:38] ERRO AddrBookService AddrBook.cpp(line 84):   CoInitialize() error !
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4743):  OnSMSStatusChanged eStatus= 0;
+[2017-10-04 09:50:38] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(SMS) or IntoElem() failed!
+[2017-10-04 09:50:38] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 85):  Info: CDeviceSMSImpl::GetReocrdList() Succeed
+[2017-10-04 09:50:38] ERRO SMSSERVICE DeviceSMSImpl.cpp(line 85):  Info: CDeviceSMSImpl::GetReocrdList() Succeed
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4838):  DEVICE OK!
+[2017-10-04 09:50:38] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1537):  Info: Enter CSMSServiceImpl::RegCallBack()
+[2017-10-04 09:50:38] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1556):  Error: CSMSServiceImpl::RegCallBack() ISMSEvent::SIM_OK
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 2313):  OnStatusChanged eStatus= 1;
+[2017-10-04 09:50:38] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1576):  Error: CSMSServiceImpl::RegCallBack() ISMSEvent::CAN_SEND_SMS
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 2313):  OnStatusChanged eStatus= 7;
+[2017-10-04 09:50:38] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1592):  Info: Leave CSMSServiceImpl::RegCallBack()
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4743):  OnSMSStatusChanged eStatus= 1;
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4850):  SIM OK!
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4743):  OnSMSStatusChanged eStatus= 7;
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3930):  Enter Update SMS Status!
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3946):  Leave Update SMS Status!
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4749):  SMS Status Changed!
+[2017-10-04 09:50:38] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4752):  SMS Status Changed:CAN_SEND_SMS!
+[2017-10-04 09:50:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:50:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:51:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:51:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:51:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:51:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:51:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:51:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:52:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:52:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:52:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:52:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:52:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:52:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:53:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:53:09] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1746):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() WMS_NEW_SMS_DIRECT_NOTIFY or WMS_RECEIVE_SMS_NOTIFY
+[2017-10-04 09:53:09] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1758):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() WMS_NEW_SMS_DIRECT_NOTIFY or WMS_RECEIVE_SMS_NOTIFY
+[2017-10-04 09:53:09] ERRO SMSSERVICE SMSServiceImpl.cpp(line 784):  Enter ReadNewMsgLock()
+[2017-10-04 09:53:09] ERRO SMSSERVICE SMSServiceImpl.cpp(line 786):  m_MutexReadNewMsg Lock()
+[2017-10-04 09:53:09] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 433):  FindChildElem(SMSSERVICE, ReceviceMode) failed!
+[2017-10-04 09:53:09] ERRO SMSSERVICE SMSServiceImpl.cpp(line 794):  Enter ReadNewMsgUnlock()
+[2017-10-04 09:53:09] ERRO SMSSERVICE SMSServiceImpl.cpp(line 796):  m_MutexReadNewMsg Unlock()
+[2017-10-04 09:53:09] ERRO SMSSERVICE utils.cpp(line 566):  ID=0; Number=+4552631220; Content=Hej; Time=201710 4 953 7; enType=SMS_IDENTIFYER_ORDINARILY;
+[2017-10-04 09:53:09] ERRO SMSSERVICE FileSMSImpl.cpp(line 806):  long msg error
+[2017-10-04 09:53:09] INFO FILEMGR FileManager.cpp(line 1075):  The removed reocrd is zero!
+[2017-10-04 09:53:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:53:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:53:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:53:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:53:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:54:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:54:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:54:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:54:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:54:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:54:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:55:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:55:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:55:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:55:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:55:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:55:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:56:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:56:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:56:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:56:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:56:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:56:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:57:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:57:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:57:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:57:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:57:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:57:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:58:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:58:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:58:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:58:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:58:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:58:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:59:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:59:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:59:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:59:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:59:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 09:59:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:00:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:00:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:00:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:00:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:00:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:00:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:01:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:01:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:01:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:01:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:01:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:01:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:02:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:02:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:02:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:02:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:02:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:02:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:03:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:03:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:03:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:03:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:03:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:03:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:04:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:04:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:04:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:04:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:04:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:04:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:05:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:05:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:05:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:05:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:05:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:05:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:06:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:06:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:06:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:06:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:06:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:06:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:07:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:07:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:07:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:07:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:07:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:07:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:08:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:08:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:08:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:08:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:08:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:08:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:09:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:09:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:09:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:09:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:09:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:09:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:10:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:10:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:10:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:10:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:10:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:10:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:11:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:11:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:11:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:11:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:11:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:11:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:12:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:12:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:12:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:12:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:12:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:12:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:13:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:13:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:13:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:13:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:13:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:13:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:14:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:14:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:14:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:14:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:14:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:14:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:15:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:15:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:15:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:15:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:15:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:15:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:16:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:16:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:16:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:16:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:16:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:16:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:17:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:17:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:17:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:17:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:17:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:17:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:18:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:18:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:18:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:18:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:18:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:18:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:19:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:19:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:19:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:19:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:19:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:19:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:20:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:20:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:20:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:20:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:20:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:20:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:21:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:21:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:21:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:21:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:21:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:21:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:22:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:22:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:22:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:22:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:22:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:22:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:23:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:23:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:23:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:23:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:23:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:23:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:24:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:24:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:24:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:24:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:24:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:24:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:25:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:25:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:25:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:25:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:25:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:25:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:26:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:26:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:26:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:26:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:26:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:26:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:27:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:27:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:27:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:27:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:27:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:27:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:28:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:28:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:28:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:28:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:28:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:28:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:29:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:29:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:29:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:29:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:29:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:29:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:30:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:30:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:30:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:30:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:30:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:30:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:31:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:31:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:31:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:31:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:31:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:31:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:32:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:32:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:32:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:32:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:32:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:32:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:33:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:33:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:33:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:33:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:33:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:33:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:34:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:34:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:34:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:34:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:34:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:34:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:35:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:35:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:35:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:35:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:35:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:35:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:36:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:36:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:36:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:36:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:36:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:36:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:37:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:37:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:37:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:37:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:37:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:37:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:38:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:38:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:38:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:38:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:38:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:38:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:39:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:39:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:39:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:39:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:39:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:39:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:40:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:40:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:40:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:40:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:40:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:40:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:41:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:41:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:41:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:41:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:41:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:41:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:42:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:42:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:42:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:42:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:42:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:42:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:43:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:43:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:43:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:43:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:43:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:43:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:44:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:44:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:44:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:44:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:44:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:44:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:45:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:45:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:45:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:45:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:45:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:45:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:46:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:46:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:46:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:46:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:46:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:46:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:47:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:47:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:47:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:47:31] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:47:41] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:47:51] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:48:01] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:48:11] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:48:21] WARN ConfigFileService ConfigFileServiceImpl.cpp(line 467):  FindElem(IMSIROAM) or IntoElem() failed!
+[2017-10-04 10:48:25] CRIT CDetectDevice::DetectDevice DetectDevice.cpp(line 546):  detected non device!!!
+[2017-10-04 10:48:25] CRIT Report Device Removed or invalided FunctionTrace.h(line 17):  Enter CDetectDevice::ReportDevRemove()
+[2017-10-04 10:48:25] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 160):  Enter delete the UniComm instance!
+[2017-10-04 10:48:25] INFO AT(CATCallback) FunctionTrace.h(line 17):  Enter AT::~CATCallback()
+[2017-10-04 10:48:25] CRIT AT::CATCallback::CallbackThread() ATCallback.cpp(line 243):  Natural Leave AT::CATCallback.thread
+[2017-10-04 10:48:25] CRIT AT(THREAD) FunctionTrace.h(line 22):  Leave AT::CallbackThread
+[2017-10-04 10:48:25] INFO AT(CATCallback) FunctionTrace.h(line 22):  Leave AT::~CATCallback()
+[2017-10-04 10:48:25] INFO AT(Parser to EndThread) FunctionTrace.h(line 17):  Enter AT::~Parser()
+[2017-10-04 10:48:25] INFO AT(THREAD) FunctionTrace.h(line 22):  Leave AT::ParseThreadProc()
+[2017-10-04 10:48:25] INFO AT(Parser to EndThread) FunctionTrace.h(line 22):  Leave AT::~Parser()
+[2017-10-04 10:48:25] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 170):  Leave delete the UniComm instance!
+[2017-10-04 10:48:25] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 174):  Enter Report EVENT_DEVICE_REJECT!
+[2017-10-04 10:48:25] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1978):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-04 10:48:25] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 2313):  OnStatusChanged eStatus= 3;
+[2017-10-04 10:48:25] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1998):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-04 10:48:25] CRIT CDeviceMgrImpl DeviceMgrImpl.cpp(line 311):  DEVICE REJECT!
+[2017-10-04 10:48:25] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 180):  Leave Report EVENT_DEVICE_REJECT!
+[2017-10-04 10:48:25] CRIT Report Device Removed or invalided FunctionTrace.h(line 22):  Leave CDetectDevice::ReportDevRemove()
+[2017-10-04 10:48:25] INFO NetInfoUIPlugin MyStatusBar.cpp(line 1407):  Enter CMyStatusBar::OnMSAvalable()
+[2017-10-04 10:48:25] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4743):  OnSMSStatusChanged eStatus= 3;
+[2017-10-04 10:48:25] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3930):  Enter Update SMS Status!
+[2017-10-04 10:48:25] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3946):  Leave Update SMS Status!
+[2017-10-04 10:48:25] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4781):  Device Not Available!
+[2017-10-04 12:45:02] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-04 15:53:23] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-04 15:53:24] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 4
+[2017-10-04 15:53:24] INFO XFramePlugin MainFrm.cpp(line 1513):  WM_POWERBROADCAST OnHibernate() PBT_APMQUERYSUSPEND | PBT_APMSUSPEND
+[2017-10-04 15:53:24] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingString PostSendingString Ingen dataforbindelse!
+[2017-10-04 15:53:24] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingStatus ProfileName = 
+[2017-10-04 15:53:24] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::PostSendingStatus ConnectState = 6
+[2017-10-04 15:53:24] CRIT NDISPlugin EasyUseTrace.h(line 70):  CNDISServiceImpl::Notify NDIS GetNotify(NTF_SYS_HIBERNATEMSG)
+[2017-10-04 15:53:24] ERRO NotifyService NotifyServiceImpl.cpp(line 191):  SendNotify: the plugin(ID:58A0343A-93DB-4ea2-92B4-C51589629381) doesn't exist or can't receive notify.
+[2017-10-04 15:53:24] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 131):  device Enter Standby or Hibernate Mode!
+[2017-10-04 15:53:24] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::EnumConnections No Connections
+[2017-10-04 21:54:32] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 7
+[2017-10-04 21:54:33] INFO XFramePlugin MainFrm.cpp(line 1556):  WM_POWERBROADCAST OnHibernate() PBT_APMRESUMESUSPEND
+[2017-10-04 21:54:33] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 140):  Device Resume Standby or Hibernate Mode!
+[2017-10-04 21:54:33] CRIT Report Device Removed or invalided FunctionTrace.h(line 17):  Enter CDetectDevice::ReportDevRemove()
+[2017-10-04 21:54:33] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 160):  Enter delete the UniComm instance!
+[2017-10-04 21:54:33] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 170):  Leave delete the UniComm instance!
+[2017-10-04 21:54:33] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 174):  Enter Report EVENT_DEVICE_REJECT!
+[2017-10-04 21:54:33] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1978):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-04 21:54:33] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 2313):  OnStatusChanged eStatus= 3;
+[2017-10-04 21:54:33] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1998):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-04 21:54:33] CRIT CDeviceMgrImpl DeviceMgrImpl.cpp(line 311):  DEVICE REJECT!
+[2017-10-04 21:54:33] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 180):  Leave Report EVENT_DEVICE_REJECT!
+[2017-10-04 21:54:33] CRIT Report Device Removed or invalided FunctionTrace.h(line 22):  Leave CDetectDevice::ReportDevRemove()
+[2017-10-04 21:54:37] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 18
+[2017-10-04 21:54:37] INFO NetInfoUIPlugin MyStatusBar.cpp(line 1407):  Enter CMyStatusBar::OnMSAvalable()
+[2017-10-04 21:54:37] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4743):  OnSMSStatusChanged eStatus= 3;
+[2017-10-04 21:54:37] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3930):  Enter Update SMS Status!
+[2017-10-04 21:54:37] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3946):  Leave Update SMS Status!
+[2017-10-04 21:54:37] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4781):  Device Not Available!
+[2017-10-04 21:54:37] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-04 21:54:37] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-05 00:19:34] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-05 04:53:35] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-05 19:41:31] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 4
+[2017-10-05 19:41:31] INFO XFramePlugin MainFrm.cpp(line 1513):  WM_POWERBROADCAST OnHibernate() PBT_APMQUERYSUSPEND | PBT_APMSUSPEND
+[2017-10-05 19:41:31] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingString PostSendingString Ingen dataforbindelse!
+[2017-10-05 19:41:31] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingStatus ProfileName = 
+[2017-10-05 19:41:31] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::PostSendingStatus ConnectState = 6
+[2017-10-05 19:41:31] CRIT NDISPlugin EasyUseTrace.h(line 70):  CNDISServiceImpl::Notify NDIS GetNotify(NTF_SYS_HIBERNATEMSG)
+[2017-10-05 19:41:31] ERRO NotifyService NotifyServiceImpl.cpp(line 191):  SendNotify: the plugin(ID:58A0343A-93DB-4ea2-92B4-C51589629381) doesn't exist or can't receive notify.
+[2017-10-05 19:41:31] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 131):  device Enter Standby or Hibernate Mode!
+[2017-10-05 19:41:31] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::EnumConnections No Connections
+[2017-10-05 19:41:31] ERRO NetInfoPlugin DeviceMgr.cpp(line 202):  Device Name:  -> not in available device list
+[2017-10-05 23:21:10] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 7
+[2017-10-05 23:21:10] INFO XFramePlugin MainFrm.cpp(line 1556):  WM_POWERBROADCAST OnHibernate() PBT_APMRESUMESUSPEND
+[2017-10-05 23:21:10] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 140):  Device Resume Standby or Hibernate Mode!
+[2017-10-05 23:21:10] CRIT Report Device Removed or invalided FunctionTrace.h(line 17):  Enter CDetectDevice::ReportDevRemove()
+[2017-10-05 23:21:10] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 160):  Enter delete the UniComm instance!
+[2017-10-05 23:21:10] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 170):  Leave delete the UniComm instance!
+[2017-10-05 23:21:10] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 174):  Enter Report EVENT_DEVICE_REJECT!
+[2017-10-05 23:21:10] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1978):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-05 23:21:10] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 2313):  OnStatusChanged eStatus= 3;
+[2017-10-05 23:21:10] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1998):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-05 23:21:10] CRIT CDeviceMgrImpl DeviceMgrImpl.cpp(line 311):  DEVICE REJECT!
+[2017-10-05 23:21:10] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 180):  Leave Report EVENT_DEVICE_REJECT!
+[2017-10-05 23:21:10] CRIT Report Device Removed or invalided FunctionTrace.h(line 22):  Leave CDetectDevice::ReportDevRemove()
+[2017-10-05 23:21:13] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 18
+[2017-10-05 23:21:13] INFO NetInfoUIPlugin MyStatusBar.cpp(line 1407):  Enter CMyStatusBar::OnMSAvalable()
+[2017-10-05 23:21:13] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4743):  OnSMSStatusChanged eStatus= 3;
+[2017-10-05 23:21:13] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3930):  Enter Update SMS Status!
+[2017-10-05 23:21:13] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3946):  Leave Update SMS Status!
+[2017-10-05 23:21:13] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4781):  Device Not Available!
+[2017-10-06 19:29:40] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 4
+[2017-10-06 19:29:40] INFO XFramePlugin MainFrm.cpp(line 1513):  WM_POWERBROADCAST OnHibernate() PBT_APMQUERYSUSPEND | PBT_APMSUSPEND
+[2017-10-06 19:29:40] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingString PostSendingString Ingen dataforbindelse!
+[2017-10-06 19:29:40] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingStatus ProfileName = 
+[2017-10-06 19:29:40] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::PostSendingStatus ConnectState = 6
+[2017-10-06 19:29:40] CRIT NDISPlugin EasyUseTrace.h(line 70):  CNDISServiceImpl::Notify NDIS GetNotify(NTF_SYS_HIBERNATEMSG)
+[2017-10-06 19:29:40] ERRO NotifyService NotifyServiceImpl.cpp(line 191):  SendNotify: the plugin(ID:58A0343A-93DB-4ea2-92B4-C51589629381) doesn't exist or can't receive notify.
+[2017-10-06 19:29:40] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 131):  device Enter Standby or Hibernate Mode!
+[2017-10-06 19:29:40] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::EnumConnections No Connections
+[2017-10-06 19:29:40] ERRO NetInfoPlugin DeviceMgr.cpp(line 202):  Device Name:  -> not in available device list
+[2017-10-07 00:56:40] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 7
+[2017-10-07 00:56:40] INFO XFramePlugin MainFrm.cpp(line 1556):  WM_POWERBROADCAST OnHibernate() PBT_APMRESUMESUSPEND
+[2017-10-07 00:56:40] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 140):  Device Resume Standby or Hibernate Mode!
+[2017-10-07 00:56:40] CRIT Report Device Removed or invalided FunctionTrace.h(line 17):  Enter CDetectDevice::ReportDevRemove()
+[2017-10-07 00:56:40] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 160):  Enter delete the UniComm instance!
+[2017-10-07 00:56:40] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 170):  Leave delete the UniComm instance!
+[2017-10-07 00:56:40] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 174):  Enter Report EVENT_DEVICE_REJECT!
+[2017-10-07 00:56:40] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1978):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-07 00:56:40] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 2313):  OnStatusChanged eStatus= 3;
+[2017-10-07 00:56:40] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1998):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-07 00:56:40] CRIT CDeviceMgrImpl DeviceMgrImpl.cpp(line 311):  DEVICE REJECT!
+[2017-10-07 00:56:40] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 180):  Leave Report EVENT_DEVICE_REJECT!
+[2017-10-07 00:56:40] CRIT Report Device Removed or invalided FunctionTrace.h(line 22):  Leave CDetectDevice::ReportDevRemove()
+[2017-10-07 00:56:43] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 18
+[2017-10-07 00:56:43] INFO NetInfoUIPlugin MyStatusBar.cpp(line 1407):  Enter CMyStatusBar::OnMSAvalable()
+[2017-10-07 00:56:43] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4743):  OnSMSStatusChanged eStatus= 3;
+[2017-10-07 00:56:43] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3930):  Enter Update SMS Status!
+[2017-10-07 00:56:43] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3946):  Leave Update SMS Status!
+[2017-10-07 00:56:43] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4781):  Device Not Available!
+[2017-10-07 15:46:06] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 4
+[2017-10-07 15:46:06] INFO XFramePlugin MainFrm.cpp(line 1513):  WM_POWERBROADCAST OnHibernate() PBT_APMQUERYSUSPEND | PBT_APMSUSPEND
+[2017-10-07 15:46:06] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingString PostSendingString Ingen dataforbindelse!
+[2017-10-07 15:46:06] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingStatus ProfileName = 
+[2017-10-07 15:46:06] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::PostSendingStatus ConnectState = 6
+[2017-10-07 15:46:06] CRIT NDISPlugin EasyUseTrace.h(line 70):  CNDISServiceImpl::Notify NDIS GetNotify(NTF_SYS_HIBERNATEMSG)
+[2017-10-07 15:46:06] ERRO NotifyService NotifyServiceImpl.cpp(line 191):  SendNotify: the plugin(ID:58A0343A-93DB-4ea2-92B4-C51589629381) doesn't exist or can't receive notify.
+[2017-10-07 15:46:06] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 131):  device Enter Standby or Hibernate Mode!
+[2017-10-07 15:46:06] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::EnumConnections No Connections
+[2017-10-07 15:46:06] ERRO NetInfoPlugin DeviceMgr.cpp(line 202):  Device Name:  -> not in available device list
+[2017-10-07 22:27:28] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 7
+[2017-10-07 22:27:28] INFO XFramePlugin MainFrm.cpp(line 1556):  WM_POWERBROADCAST OnHibernate() PBT_APMRESUMESUSPEND
+[2017-10-07 22:27:28] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 140):  Device Resume Standby or Hibernate Mode!
+[2017-10-07 22:27:28] CRIT Report Device Removed or invalided FunctionTrace.h(line 17):  Enter CDetectDevice::ReportDevRemove()
+[2017-10-07 22:27:28] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 160):  Enter delete the UniComm instance!
+[2017-10-07 22:27:28] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 170):  Leave delete the UniComm instance!
+[2017-10-07 22:27:28] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 174):  Enter Report EVENT_DEVICE_REJECT!
+[2017-10-07 22:27:28] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1978):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-07 22:27:28] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 2313):  OnStatusChanged eStatus= 3;
+[2017-10-07 22:27:28] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1998):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-07 22:27:28] CRIT CDeviceMgrImpl DeviceMgrImpl.cpp(line 311):  DEVICE REJECT!
+[2017-10-07 22:27:28] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 180):  Leave Report EVENT_DEVICE_REJECT!
+[2017-10-07 22:27:28] CRIT Report Device Removed or invalided FunctionTrace.h(line 22):  Leave CDetectDevice::ReportDevRemove()
+[2017-10-07 22:27:31] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 18
+[2017-10-07 22:27:31] INFO NetInfoUIPlugin MyStatusBar.cpp(line 1407):  Enter CMyStatusBar::OnMSAvalable()
+[2017-10-07 22:27:31] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4743):  OnSMSStatusChanged eStatus= 3;
+[2017-10-07 22:27:31] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3930):  Enter Update SMS Status!
+[2017-10-07 22:27:31] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3946):  Leave Update SMS Status!
+[2017-10-07 22:27:31] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4781):  Device Not Available!
+[2017-10-08 06:22:32] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-09 07:58:25] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-09 08:15:57] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-09 08:15:57] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-09 08:59:29] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-09 11:39:22] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-09 14:22:45] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-09 14:22:47] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 4
+[2017-10-09 14:22:47] INFO XFramePlugin MainFrm.cpp(line 1513):  WM_POWERBROADCAST OnHibernate() PBT_APMQUERYSUSPEND | PBT_APMSUSPEND
+[2017-10-09 14:22:47] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingString PostSendingString Ingen dataforbindelse!
+[2017-10-09 14:22:47] INFO DialUpPlugin EasyUseTrace.h(line 78):  CDialUpServiceImpl::PostSendingStatus ProfileName = 
+[2017-10-09 14:22:47] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::PostSendingStatus ConnectState = 6
+[2017-10-09 14:22:47] CRIT NDISPlugin EasyUseTrace.h(line 70):  CNDISServiceImpl::Notify NDIS GetNotify(NTF_SYS_HIBERNATEMSG)
+[2017-10-09 14:22:47] ERRO NotifyService NotifyServiceImpl.cpp(line 191):  SendNotify: the plugin(ID:58A0343A-93DB-4ea2-92B4-C51589629381) doesn't exist or can't receive notify.
+[2017-10-09 14:22:47] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 131):  device Enter Standby or Hibernate Mode!
+[2017-10-09 14:22:47] INFO DialUpPlugin EasyUseTrace.h(line 70):  CDialUpServiceImpl::EnumConnections No Connections
+[2017-10-09 14:22:47] ERRO NetInfoPlugin DeviceMgr.cpp(line 202):  Device Name:  -> not in available device list
+[2017-10-09 22:46:18] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-09 22:46:18] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 18
+[2017-10-09 22:46:18] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 116):  Device Enter Again Standby or Hibernate Mode!
+[2017-10-09 22:46:18] INFO XFramePlugin MainFrm.cpp(line 1556):  WM_POWERBROADCAST OnHibernate() PBT_APMRESUMESUSPEND
+[2017-10-09 22:46:18] CRIT CDetectDevice::StandbyHibernateMode DetectDevice.cpp(line 140):  Device Resume Standby or Hibernate Mode!
+[2017-10-09 22:46:18] CRIT Report Device Removed or invalided FunctionTrace.h(line 17):  Enter CDetectDevice::ReportDevRemove()
+[2017-10-09 22:46:18] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 160):  Enter delete the UniComm instance!
+[2017-10-09 22:46:18] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 170):  Leave delete the UniComm instance!
+[2017-10-09 22:46:18] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 174):  Enter Report EVENT_DEVICE_REJECT!
+[2017-10-09 22:46:18] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1978):  InfoAT: Enter CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-09 22:46:18] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 2313):  OnStatusChanged eStatus= 3;
+[2017-10-09 22:46:18] ERRO SMSSERVICE SMSServiceImpl.cpp(line 1998):  InfoAT: Leave CSMSServiceImpl::OnDeviceMgrEvent() EVENT_SRV_MS_UNAVAILABLE or EVENT_DEVICE_REJECT
+[2017-10-09 22:46:18] CRIT CDeviceMgrImpl DeviceMgrImpl.cpp(line 311):  DEVICE REJECT!
+[2017-10-09 22:46:18] CRIT CDetectDevice::ReportDevRemove DetectDevice.cpp(line 180):  Leave Report EVENT_DEVICE_REJECT!
+[2017-10-09 22:46:18] CRIT Report Device Removed or invalided FunctionTrace.h(line 22):  Leave CDetectDevice::ReportDevRemove()
+[2017-10-09 22:46:21] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 7
+[2017-10-09 22:46:21] INFO NetInfoUIPlugin MyStatusBar.cpp(line 1407):  Enter CMyStatusBar::OnMSAvalable()
+[2017-10-09 22:46:21] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4743):  OnSMSStatusChanged eStatus= 3;
+[2017-10-09 22:46:21] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3930):  Enter Update SMS Status!
+[2017-10-09 22:46:21] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 3946):  Leave Update SMS Status!
+[2017-10-09 22:46:21] INFO SMSUIPlugin SMSUIMainDlg.cpp(line 4781):  Device Not Available!
+[2017-10-10 01:09:31] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:12:19] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:31:26] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:31:26] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:31:29] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:31:32] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:31:32] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:36:54] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:36:54] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:36:55] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-10 09:37:06] INFO XFramePlugin MainFrm.cpp(line 1481):  Enter OnHibernate, the wParam = 10
+[2017-10-11 09:53:09] ERRO SMSSERVICE utils.cpp(line 566):  ID=0; Number=+4552631220; Content=DoorIsOpen; Time=201710 4 953 7; enType=SMS_IDENTIFYER_ORDINARILY;
+[2017-10-12 09:53:09] ERRO SMSSERVICE utils.cpp(line 566):  ID=0; Number=+4552631220; Content=RoomIsVacant; Time=201710 4 953 7; enType=SMS_IDENTIFYER_ORDINARILY;
+[2017-10-12 13:00:09] ERRO SMSSERVICE utils.cpp(line 566):  ID=0; Number=+4552631220; Content=WindowIsBroken; Time=201710 4 953 7; enType=SMS_IDENTIFYER_ORDINARILY;
