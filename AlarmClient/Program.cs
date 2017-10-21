@@ -10,24 +10,24 @@ namespace AlarmClient
 {
     class Program
     {
-        private static AlarmService.AlarmServiceClient _asc;
+        private AlarmService.AlarmServiceClient _asc;
 
         static void Main(string[] args)
-        {
-            _asc = new AlarmService.AlarmServiceClient();
+        {            
             Program p = new Program();
             p.Run();
-
         }
 
         private void Run()
         {
+            _asc = new AlarmService.AlarmServiceClient();
+
             bool running = true;
             while (running)
             {
-                Console.Clear();
                 Console.WriteLine("Send: s \r\nReceive: r \r\nExit: x");
                 string input = Console.ReadLine();
+                
                 switch (input.ToLower())
                 {
                     case "s":
@@ -57,7 +57,7 @@ namespace AlarmClient
                 {
                     Console.WriteLine(item.Content);
                 }
-                Thread.Sleep(3000);
+                Thread.Sleep(5000);
             }
 
         }
@@ -66,10 +66,11 @@ namespace AlarmClient
         {
             while (true)
             {
+                Console.WriteLine("Skaber en alarm!");
                 _asc.PostAlarm(new AlarmService.Alarm() { Time = DateTime.Now, Number = "66666666", Content = "Testdata" });
                 Thread.Sleep(5000);
             }
-            
+
         }
 
 
