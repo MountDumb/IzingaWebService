@@ -10,29 +10,64 @@ namespace AlarmClient
 {
     class Program
     {
-        private AlarmService.AlarmServiceClient _asc;
+        private static AlarmService.AlarmServiceClient _asc;
 
         static void Main(string[] args)
         {
+            _asc = new AlarmService.AlarmServiceClient();
             Program p = new Program();
             p.Run();
+
         }
 
         private void Run()
         {
-            _asc = new AlarmService.AlarmServiceClient();
-            DoStuff();
-            
+            bool running = true;
+            while (running)
+            {
+                Console.Clear();
+                Console.WriteLine("Send: s \r\nReceive: r \r\nExit: x");
+                string input = Console.ReadLine();
+                switch (input.ToLower())
+                {
+                    case "s":
+                        new Thread(() => SendAlarm()).Start();
+                        break;
+                    case "r":
+                        new Thread(() => GetAlarms()).Start();
+                        break;
+                    case "x":
+                        running = false;
+                        break;
+                    default:
+                        break;
+                }
+            }
 
-            Console.ReadKey();
         }
 
-        private void DoStuff()
+        private void GetAlarms()
         {
-            _asc.PostAlarm(new AlarmService.Alarm() { Time = DateTime.Now, Number = "66666666", Content = "Testdata" });
-            foreach (var item in _asc.GetAlarms())
+            Console.Clear();
+            while (true)
             {
-                Console.WriteLine(item.Content);
+                Console.WriteLine();
+                Console.WriteLine("Nuværende alarmer:");
+                foreach (var item in _asc.GetAlarms())
+                {
+                    Console.WriteLine(item.Content);
+                }
+                Thread.Sleep(3000);
+            }
+
+        }
+
+        private void SendAlarm()
+        {
+            while (true)
+            {
+                _asc.PostAlarm(new AlarmService.Alarm() { Time = DateTime.Now, Number = "66666666", Content = "Testdata" });
+                Thread.Sleep(5000);
             }
             
         }

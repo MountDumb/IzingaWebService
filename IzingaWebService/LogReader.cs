@@ -23,7 +23,7 @@ namespace IzingaWebService
         {
             //string filepath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) +  "\\trace_0.txt";
             //string targetpath = @"C:\Program Files (x86)\Mobilt Bredband\Log\trace_0_kopi.txt";
-            string currentPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + "\\TestData\\trace_0.txt";
+            string currentPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + "\\Documents\\trace_0.txt";
             string targetFolder = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Mobilt Bredband\\Log";
             string targetPath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Mobilt Bredband\\Log\\trace_0_kopi.txt";
 

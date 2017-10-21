@@ -54,8 +54,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="TestData\ReadMe.txt" />
-    <Content Include="TestData\trace_0.txt">
+    <Content Include="Documents\ReadMe.txt" />
+    <Content Include="Documents\trace_0.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

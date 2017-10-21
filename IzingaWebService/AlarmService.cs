@@ -12,9 +12,8 @@ namespace IzingaWebService
     [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single)]
     public class AlarmService : IAlarmService
     {
+        private object alarmsLock = new object();
         private List<Alarm> _alarms;
-        private static object PostAlarmLock = new object();
-
 
         private AlarmService()
         {
@@ -23,21 +22,18 @@ namespace IzingaWebService
 
         public List<Alarm> GetAlarms()
         {
-
-            return _alarms;
-
+            lock (alarmsLock)
+            {
+                return _alarms;
+            }
         }
 
         public void PostAlarm(Alarm a)
         {
-            lock (PostAlarmLock)
+            lock (alarmsLock)
             {
                 _alarms.Add(a);
             }
-
-
         }
-
-
     }
 }
