@@ -31,10 +31,14 @@ namespace AlarmClient
                 switch (input.ToLower())
                 {
                     case "s":
-                        new Thread(() => SendAlarm()).Start();
+                        Thread sa = new Thread(() => SendAlarm());
+                        sa.IsBackground = true;
+                        sa.Start();
                         break;
                     case "r":
-                        new Thread(() => GetAlarms()).Start();
+                        Thread ga = new Thread(() => GetAlarms());
+                        ga.IsBackground = true;
+                        ga.Start();
                         break;
                     case "x":
                         running = false;
