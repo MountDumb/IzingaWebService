@@ -56,10 +56,10 @@ namespace AlarmClient
             while (true)
             {
                 Console.WriteLine();
-                Console.WriteLine("Nuværende alarmer:");
+                Console.WriteLine("Current Alarms:");
                 foreach (var item in _asc.GetAlarms())
                 {
-                    Console.WriteLine(item.Content);
+                    Console.WriteLine($"TIME: {item.Time} NUMBER: {item.Number} CONTENT: { item.Content}");
                 }
                 Thread.Sleep(5000);
             }
@@ -68,9 +68,10 @@ namespace AlarmClient
 
         private void SendAlarm()
         {
+            Console.Clear();
             while (true)
             {
-                Console.WriteLine("Skaber en alarm!");
+                Console.WriteLine("Creating Alarm!");
                 _asc.PostAlarm(new AlarmService.Alarm() { Time = DateTime.Now, Number = "66666666", Content = "Testdata" });
                 Thread.Sleep(5000);
             }
