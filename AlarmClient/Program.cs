@@ -73,7 +73,7 @@ namespace AlarmClient
                     Console.WriteLine($"TIME: {newAlarms[i].Time} NUMBER: {newAlarms[i].Number} CONTENT: { newAlarms[i].Content}");
                 }
                 _alarms = newAlarms;
-                Thread.Sleep(5000);
+                Thread.Sleep(1000);
             }
 
         }
@@ -81,6 +81,7 @@ namespace AlarmClient
         private void SendAlarm(string message)
         {
             Console.Clear();
+
             while (true)
             {
                 Console.WriteLine("Creating Alarm!");

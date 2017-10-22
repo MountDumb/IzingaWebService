@@ -26,6 +26,8 @@ namespace IzingaWebService
             {
                 return _alarms;
             }
+                
+            
         }
 
         public void PostAlarm(Alarm a)
