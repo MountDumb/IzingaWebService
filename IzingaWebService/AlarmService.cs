@@ -24,7 +24,7 @@ namespace IzingaWebService
         {
             lock (alarmsLock)
             {
-                return _alarms;
+                return _alarms.ToList();
             }
                 
             
