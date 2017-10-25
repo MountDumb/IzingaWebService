@@ -24,7 +24,9 @@ namespace IzingaWebService
         {
             lock (alarmsLock)
             {
-                return _alarms.ToList();
+                return new List<Alarm>(_alarms);
+                //Does this make a copy of the list?
+                //return _alarms.ToList();
             }
                 
             
