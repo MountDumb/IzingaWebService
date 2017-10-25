@@ -28,8 +28,6 @@ namespace IzingaWebService
                 return new List<Alarm>(_alarms);
                 //return _alarms.ToList();
             }
-                
-            
         }
 
         public void PostAlarm(Alarm a)
